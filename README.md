@@ -1,14 +1,10 @@
- Hi there 👋
+Hi there,
+I'm a self-taught Web Developer from Madrid, Spain.
 
-<!--
-**TKadyear/TKadyear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:--!>
-
-const tamara = {
-  pronouns: "she" | "her",
-  code: [HTML5, CSS3,Javascript],
-  learning: [Node.js, MongoDB]
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
+BIO
+💼 I’m currently working in my Portfolio
+⚙️ I use daily: .html, .js, .css, .psd, .ai, .indd
+🌱 I'm currently learning React and Node.js
+💬 Ask me about design, branding, design thinking, pattern making, tailoring, or anything you need. I'll be happy to try to help you.
+📫 Contact me: https://www.linkedin.com/in/tamara-kadyear-saber/
 
