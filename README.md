@@ -2,6 +2,7 @@ Hi there,
 I'm a self-taught Web Developer from Madrid, Spain.
 
 BIO
+
 💼 I’m currently working in my Portfolio
 ⚙️ I use daily: .html, .js, .css, .psd, .ai, .indd
 🌱 I'm currently learning React and Node.js
