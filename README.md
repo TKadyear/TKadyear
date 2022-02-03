@@ -3,7 +3,7 @@ class Me {
     constructor(){
         firstname = "Tamara",
         surname = "Kadyear Saber",
-        age = 25,
+        age = 26,
         pronouns = "she/her"
     }
 }
