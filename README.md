@@ -9,7 +9,7 @@ class Me {
 }
 class About extends Me {
     getCurrentStudies() {
-        return "Course of Programming and Front End Web Development (265 hours)";
+        return "Course of Programming and Front End Web Development (403 hours)";
     }
     getPersonalChallenges() {
         return "30 days with Vue.js";
