@@ -9,16 +9,16 @@ class Me {
 }
 class About extends Me {
     getCurrentStudies() {
-        return "Course of Programming and Front End Web Development (403 hours)";
+        return "Training FullStack React";
     }
     getPersonalChallenges() {
-        return "30 days with Vue.js";
+        return "Learn about Test Driven Development";
     }
     getSpokenLanguages(){
         return ["Spanish", "Arabic" , "English"];
     }
     getDailyKnowledge(){
-        return ["HTML5", "CSS3", "Javascript", "Vue.js", "Tailwind Css", "Vite", "Figma"];
+        return ["HTML5", "CSS3", "Javascript", "Vue.js","VueX" ,"React", "Redux" ,"Tailwind Css", "Vite", "Figma"];
     }
     getFutureGoal() {
         return "To contribute to open source";
