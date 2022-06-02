@@ -9,7 +9,7 @@ class Me {
 }
 class About extends Me {
     getCurrentStudies() {
-        return "Training FullStack React";
+        return "Training FullStack MERN React";
     }
     getPersonalChallenges() {
         return "Learn about Test Driven Development";
