@@ -21,7 +21,7 @@ class About extends Me {
         return ["HTML5", "CSS3", "Javascript", "Vue.js","VueX" ,"React", "Redux" ,"Tailwind Css", "Vite", "Figma"];
     }
     getFutureGoal() {
-        return "To contribute to open source";
+        return "To contribute to be Full Stack Developer";
     }
     getContact(){
         const Linkedin = "tamara-kadyear-saber";
