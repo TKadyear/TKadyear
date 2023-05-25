@@ -9,19 +9,16 @@ class Me {
 }
 class About extends Me {
     getCurrentStudies() {
-        return "Training FullStack MERN React";
+        return "Learning  about the Azure AZ-204 Developing Solutions for Microsoft Azure certification exam topics.";
     }
     getPersonalChallenges() {
-        return "Learn about Test Driven Development";
+        return "Azure 30 Days Challenge";
     }
     getSpokenLanguages(){
         return ["Spanish", "Arabic" , "English"];
     }
     getDailyKnowledge(){
-        return ["HTML5", "CSS3", "Javascript", "Vue.js","VueX" ,"React", "Redux" ,"Tailwind Css", "Vite", "Figma"];
-    }
-    getFutureGoal() {
-        return "To contribute to be Full Stack Developer";
+        return ["HTML5", "CSS3", "Javascript", "Vue.js","VueX" ,"Pinia","React", "Redux" ,"Tailwind Css", "Cypress","Vite", "Figma"];
     }
     getContact(){
         const Linkedin = "tamara-kadyear-saber";
