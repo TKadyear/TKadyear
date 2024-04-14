@@ -18,7 +18,7 @@ class About extends Me {
         return ["Spanish", "Arabic" , "English"];
     }
     getDailyKnowledge(){
-        return ["HTML5", "CSS3", "Javascript", "Vue.js","VueX" ,"Pinia","React", "Redux" ,"Tailwind Css", "Cypress","Vite", "Figma"];
+        return ["HTML5", "CSS3", "Javascript", "Angular","Fastify", "Docker", "Bicep", "Typescript", "Kubernetes"];
     }
     getContact(){
         const Linkedin = "tamara-kadyear-saber";
