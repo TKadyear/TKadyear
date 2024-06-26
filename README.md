@@ -3,16 +3,13 @@ class Me {
     constructor(){
         firstname = "Tamara",
         surname = "Kadyear Saber",
-        age = 26,
+        age = 28,
         pronouns = "she/her"
     }
 }
 class About extends Me {
     getCurrentStudies() {
         return "Learning  about the Azure AZ-204 Developing Solutions for Microsoft Azure certification exam topics.";
-    }
-    getPersonalChallenges() {
-        return "Azure 30 Days Challenge";
     }
     getSpokenLanguages(){
         return ["Spanish", "Arabic" , "English"];
