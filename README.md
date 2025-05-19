@@ -30,7 +30,6 @@ Feel free to connect with me here:
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff)
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff)
 - **Testing:**
  ![Cypress](https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=fff)
  ![sinon](https://img.shields.io/badge/Sinon-black?logo=sinon&logoColor=fff)
